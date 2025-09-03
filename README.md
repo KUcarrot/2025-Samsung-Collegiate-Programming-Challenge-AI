@@ -1,4 +1,4 @@
-## 2025-Samsung-Collegiate-Programming-Challenge-AI-
+## 2025-Samsung-Collegiate-Programming-Challenge-AI
 Dacon : https://dacon.io/competitions/official/236500/overview/description
 
 **3rd Prize**, Private 12위 (Accuracy: 0.7819)
