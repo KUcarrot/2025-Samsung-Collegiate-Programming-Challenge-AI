@@ -1,0 +1,9 @@
+bitsandbytes
+transformers==4.47.0
+torch
+pandas
+numpy
+peft
+sentence-transformers
+Pillow
+tqdm
